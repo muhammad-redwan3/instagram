@@ -1,0 +1,1 @@
+<img src="logo.png" alt="" class="xl:w-80 md:w-64 md:h-64 w-0 h-0 mr-12">
